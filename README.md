@@ -1,4 +1,3 @@
-# cisc332
+# Databases
 Web app and demo
-
-https://www.youtube.com/watch?v=PqiHS-CcbqI
+(simple implmenetation of given specifications)
